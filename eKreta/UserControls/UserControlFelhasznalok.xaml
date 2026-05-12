@@ -8,12 +8,8 @@
     Width="1500"
     Height="900"
     HorizontalAlignment="Stretch"
-    VerticalAlignment="Stretch"
-    Background="Yellow">
+    VerticalAlignment="Stretch">
     <StackPanel>
-        <DataGrid
-            Width="1500"
-            Height="500"
-            Background="Blue" />
+        <DataGrid Width="1500" Height="500" />
     </StackPanel>
 </UserControl>
